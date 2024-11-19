@@ -3,7 +3,9 @@
 欢迎使用Pumpfun 撸新币自动化工具，自动扫链买卖，解放双手！
 
 <<<<<<< 作者邮箱：shenglongwebthree@gmail.com >>>>>>>
+
 <<<<<<< 作者接收Solana钱包：CZsTxis1fRE1uof9h7rLBenNxs9VLkSFausTqtCK4e7n  >>>>>>>
+
 <<<<<<< 仅需2个sol 即可解锁使用权限  >>>>>>>
 
 以下是基本的使用说明：
